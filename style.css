@@ -1,0 +1,12 @@
+
+body{
+	background-image:url("wall.jpg");
+	background-size:auto;
+	background-repeat:no-repeat;
+  margin-bottom:2px;
+}
+.myself{
+	font-size: 100px;
+}
+
+
