@@ -4,9 +4,32 @@ body{
 	background-size:auto;
 	background-repeat:no-repeat;
   margin-bottom:2px;
+  
 }
 .myself{
-	font-size: 100px;
+	font-size: 50px;
+	color:lightblue;
+	font-family:monospace;
+	padding:20px;
+	margin-left:500px;
+	
 }
+.me{
+	padding:20px;
+	margin-left:525px;
+	border-radius:42%;
+}
+.nithi{
+	margin-left: 600px;
+	color: darksalmon;
+	font-family:'Trebuchet MS';
+}
+.intro{
+	float: inline-start;
+	font-size: 25px;
+	color: darkred;
+}
+
+
 
 
