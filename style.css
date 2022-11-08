@@ -1,35 +1,59 @@
+*{
+	  font-family: "Abril Fatface", cursive;
+}
+
 
 body{
-	background-image:url("wall.jpg");
+	background-image: url("wall.jpg");
 	background-size:auto;
 	background-repeat:no-repeat;
   margin-bottom:2px;
+
   
 }
 .myself{
 	font-size: 50px;
-	color:lightblue;
+	color:red;
 	font-family:monospace;
 	padding:20px;
 	margin-left:500px;
-	
 }
 .me{
-	padding:20px;
-	margin-left:525px;
-	border-radius:42%;
+	float:left;
+	margin-top:300px;
+	margin-left:35px;
+	border-radius:50%;
+	height:400px;
+	width:400px;
+	margin-left:100px;
 }
 .nithi{
 	margin-left: 600px;
-	color: darksalmon;
+	color:white;
 	font-family:'Trebuchet MS';
+	margin-top:350px;
+	margin-right:20px;
 }
 .intro{
 	float: inline-start;
-	font-size: 25px;
-	color: darkred;
+	font-size: 30px;
+	color: white ;
+	font-family: Helvetica;
+	margin-right:10px;
 }
+ 
 
 
-
-
+.item{
+	display:flex;
+	float:right;
+	color:white;
+    font-size:30px
+}
+li{
+   margin-right:40px;
+   list-style:none;
+}
+ 
+	
+ 
