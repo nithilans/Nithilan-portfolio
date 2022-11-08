@@ -13,7 +13,7 @@ body{
 }
 .myself{
 	font-size: 50px;
-	color:red;
+	color: red;
 	font-family:monospace;
 	padding:20px;
 	margin-left:500px;
@@ -29,7 +29,7 @@ body{
 }
 .nithi{
 	margin-left: 600px;
-	color:white;
+	color:#ffff;
 	font-family:'Trebuchet MS';
 	margin-top:350px;
 	margin-right:20px;
@@ -37,7 +37,7 @@ body{
 .intro{
 	float: inline-start;
 	font-size: 30px;
-	color: white ;
+	color: #ffff ;
 	font-family: Helvetica;
 	margin-right:10px;
 }
@@ -47,8 +47,8 @@ body{
 .item{
 	display:flex;
 	float:right;
-	color:white;
-    font-size:30px
+	color:#ffff;
+    font-size:30px;
 }
 li{
    margin-right:40px;
